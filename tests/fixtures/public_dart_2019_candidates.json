@@ -1,0 +1,152 @@
+{
+  "source": "Official DART web search; not OpenDART API, not original version verification",
+  "search_url": "https://dart.fss.or.kr/dsab001/search.ax",
+  "asof": "2019-09-18",
+  "query_start": "20190101",
+  "query_end": "20190917",
+  "full_history_confirmed": false,
+  "stocks": [
+    {
+      "stock_code": "000140",
+      "web_response_sha256": "20ee57ee4f86cd1c34af5b847a0119a3d85b39da45adaa41650ee0e65476420b",
+      "periodic_candidates": [
+        {
+          "period": "2018-12",
+          "receipt_no": "20190401001776",
+          "title": "사업보고서 (2018.12)",
+          "type": "annual"
+        },
+        {
+          "period": "2019-03",
+          "receipt_no": "20190515001368",
+          "title": "분기보고서 (2019.03)",
+          "type": "interim"
+        },
+        {
+          "period": "2019-06",
+          "receipt_no": "20190814000950",
+          "title": "반기보고서 (2019.06)",
+          "type": "interim"
+        }
+      ],
+      "expected_annual_receipt": "20190401001776",
+      "expected_interim_receipt": "20190814000950"
+    },
+    {
+      "stock_code": "000390",
+      "web_response_sha256": "2689c8d2a2a8d4fadd1b5863fb72372730bf4f5a5c5cf9bfdbf4e3974563260d",
+      "periodic_candidates": [
+        {
+          "period": "2018-12",
+          "receipt_no": "20190329001884",
+          "title": "사업보고서 (2018.12)",
+          "type": "annual"
+        },
+        {
+          "period": "2019-03",
+          "receipt_no": "20190514000477",
+          "title": "분기보고서 (2019.03)",
+          "type": "interim"
+        },
+        {
+          "period": "2019-06",
+          "receipt_no": "20190814000993",
+          "title": "반기보고서 (2019.06)",
+          "type": "interim"
+        }
+      ],
+      "expected_annual_receipt": "20190329001884",
+      "expected_interim_receipt": "20190814000993"
+    },
+    {
+      "stock_code": "000890",
+      "web_response_sha256": "d9e3c4058f319900ddb060625ed6bc7e39bd8fab5af1a594445dcfd0a955a338",
+      "periodic_candidates": [
+        {
+          "period": "2018-12",
+          "receipt_no": "20190329004046",
+          "title": "사업보고서 (2018.12)",
+          "type": "annual"
+        },
+        {
+          "period": "2019-03",
+          "receipt_no": "20190514000399",
+          "title": "분기보고서 (2019.03)",
+          "type": "interim"
+        },
+        {
+          "period": "2019-06",
+          "receipt_no": "20190814001259",
+          "title": "반기보고서 (2019.06)",
+          "type": "interim"
+        },
+        {
+          "period": "2018-12",
+          "receipt_no": "20190822000198",
+          "title": "[기재정정] 사업보고서 (2018.12)",
+          "type": "annual"
+        }
+      ],
+      "expected_annual_receipt": "20190822000198",
+      "expected_interim_receipt": "20190814001259"
+    },
+    {
+      "stock_code": "000970",
+      "web_response_sha256": "1f8e83c6404193ecec1944a8b716aa1728a5723b7547c69b42933b2bb2f28f93",
+      "periodic_candidates": [
+        {
+          "period": "2018-12",
+          "receipt_no": "20190214000801",
+          "title": "분기보고서 (2018.12)",
+          "type": "interim"
+        },
+        {
+          "period": "2019-03",
+          "receipt_no": "20190701000238",
+          "title": "사업보고서 (2019.03)",
+          "type": "annual"
+        },
+        {
+          "period": "2019-06",
+          "receipt_no": "20190814001032",
+          "title": "분기보고서 (2019.06)",
+          "type": "interim"
+        }
+      ],
+      "expected_annual_receipt": "20190701000238",
+      "expected_interim_receipt": "20190814001032"
+    },
+    {
+      "stock_code": "001360",
+      "web_response_sha256": "7a2a1f01860f4ff34c3145a48e6e4c7af8546f1f3ec2de2f0e4074ab2d031c60",
+      "periodic_candidates": [
+        {
+          "period": "2018-12",
+          "receipt_no": "20190401003716",
+          "title": "사업보고서 (2018.12)",
+          "type": "annual"
+        },
+        {
+          "period": "2019-03",
+          "receipt_no": "20190515002365",
+          "title": "분기보고서 (2019.03)",
+          "type": "interim"
+        },
+        {
+          "period": "2019-03",
+          "receipt_no": "20190520000217",
+          "title": "[기재정정] 분기보고서 (2019.03)",
+          "type": "interim"
+        },
+        {
+          "period": "2019-06",
+          "receipt_no": "20190813000297",
+          "title": "반기보고서 (2019.06)",
+          "type": "interim"
+        }
+      ],
+      "expected_annual_receipt": "20190401003716",
+      "expected_interim_receipt": "20190813000297"
+    }
+  ]
+}
